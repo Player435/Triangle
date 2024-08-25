@@ -3,7 +3,7 @@
 class Triangle 
 {
 private:
-    double longueurA, largeurB, hauteurC;
+    double coteA, coteB, coteC;
 
 public:
     Triangle();
