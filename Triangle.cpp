@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Triangle.h"
+#include <cmath>
 {
     void setCote(double a, double b, double c) {
       {
