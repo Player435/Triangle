@@ -1,7 +1,9 @@
+#include<iostream>
+#include"Triangle.h"
+#include<string>
 int main() 
 {
     Triangle triangle(3, 4, 5);
-
   
     if (triangle.estvalide()) 
     {
